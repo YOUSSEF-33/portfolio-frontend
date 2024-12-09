@@ -16,14 +16,14 @@ const projects: Project[] = [
     title: 'LMS Admin Dashboard',
     description: 'A comprehensive admin dashboard for a Learning Management System built with React and Redux.',
     image: 'https://images.unsplash.com/photo-1484807352052-23338990c6c6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
-    github: 'https://github.com/yourusername/lms-admin-dashboard',
+    github: 'https://github.com/YOUSSEF-33/LMS-Admin-Dashboard',
     tech: ['React', 'Redux', 'TypeScript', 'Tailwind CSS'],
   },
   {
     title: 'Events Application',
     description: 'A full-stack events management application built with Next.js and MongoDB.',
     image: 'https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
-    github: 'https://github.com/yourusername/events-app',
+    github: 'https://github.com/YOUSSEF-33/evently-app',
     tech: ['Next.js', 'MongoDB', 'TypeScript', 'Tailwind CSS'],
   },
 ];

@@ -19,7 +19,7 @@ const Present: React.FC  = () => {
         </p>
         <div className="flex justify-center space-x-4">
           <motion.a
-            href="path_to_your_cv.pdf"  // Replace with the actual link to your CV
+            href="/cv.pdf"  // Replace with the actual link to your CV
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center px-6 py-3 bg-white text-blue-600 rounded shadow-lg hover:bg-gray-200 hover:text-blue transition-colors"
@@ -29,7 +29,7 @@ const Present: React.FC  = () => {
             Download CV
           </motion.a>
           <motion.a
-            href="https://github.com/yourusername" // Replace with your GitHub URL
+            href="https://github.com/YOUSSEF-33" // Replace with your GitHub URL
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center px-6 py-3 border border-white text-white rounded shadow-lg hover:bg-white hover:text-blue-600 transition-colors"

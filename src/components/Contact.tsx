@@ -25,7 +25,7 @@ const Contact: React.FC = () => {
               Email
             </a>
             <a
-              href="https://www.linkedin.com/in/yourusername"
+              href="https://www.linkedin.com/in/youssef-atef-120907247/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center text-gray-600 hover:text-blue-600 transition-colors"
@@ -34,7 +34,7 @@ const Contact: React.FC = () => {
               LinkedIn
             </a>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/YOUSSEF-33"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center text-gray-600 hover:text-blue-600 transition-colors"

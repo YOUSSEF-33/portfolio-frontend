@@ -1,15 +1,17 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Code, Database, GitBranch, Globe, Layout, Server } from 'lucide-react';
+import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaGitAlt } from 'react-icons/fa';
+import { SiRedux, SiNextdotjs, SiTypescript } from 'react-icons/si';
 
 const skills = [
-  { name: 'HTML/CSS', icon: Layout },
-  { name: 'JavaScript', icon: Code },
-  { name: 'TypeScript', icon: Code },
-  { name: 'React', icon: Globe },
-  { name: 'Next.js', icon: Server },
-  { name: 'Redux', icon: Database },
-  { name: 'Git', icon: GitBranch },
+  { name: 'HTML', icon: FaHtml5 },
+  { name: 'CSS', icon: FaCss3Alt },
+  { name: 'JavaScript', icon: FaJs },
+  { name: 'TypeScript', icon: SiTypescript },
+  { name: 'React', icon: FaReact },
+  { name: 'Next.js', icon: SiNextdotjs },
+  { name: 'Redux', icon: SiRedux },
+  { name: 'Git', icon: FaGitAlt },
 ];
 
 const Skills: React.FC = () => {

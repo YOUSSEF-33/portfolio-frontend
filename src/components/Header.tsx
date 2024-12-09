@@ -14,7 +14,7 @@ const Header: React.FC = () => {
   ];
 
   return (
-    <header className="bg-white shadow-md">
+    <header className="bg-white shadow-md fixed w-full">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <motion.div
           initial={{ opacity: 0, x: -50 }}
